@@ -1,0 +1,10 @@
+bin
+obj
+*.user
+*.suo
+Library/
+obj/
+log/
+Debug/
+*.sdf
+*UnityVS*
